@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React-Redux**
 
-- 👨‍💻 All of my projects are available at [www.ashwinvk.site](www.ashwinvk.site)
+- 👨‍💻 All of my projects are available at www.ashwinvk.site
 
 - 💬 Ask me about **Django, Python, React**
 
